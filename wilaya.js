@@ -1108,7 +1108,7 @@ const data = {
     { value: "Tsabit", label: "Tsabit - تسابيت" },
     { value: "Zaouiet Kounta", label: "Zaouiet Kounta - زاوية كنتة" },
   ],
-  "Illizi (wilaya restreinte)": [
+  Illizi: [
     { value: "Bordj El Haouas", label: "Bordj El Haouasse - برج الحواس" },
     { value: "Bordj Omar Driss", label: "Bordj Omar Driss - برج عمر إدريس" },
     { value: "Debdeb", label: "Debdeb - دبداب" },
@@ -1454,7 +1454,7 @@ const data = {
     { value: "Ouled Rahmoune", label: "Ouled Rahmouni - أولاد رحمون" },
     { value: "Zighoud Youcef", label: "Zighoud Youcef - زيغود يوسف" },
   ],
-  "Tindouf (wilaya restreinte)": [
+  Tindouf: [
     { value: "Oum el Assel", label: "Oum el Assel - أم العسل" },
     { value: "Tindouf", label: "Tindouf - تندوف" },
   ],
